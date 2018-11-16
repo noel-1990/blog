@@ -1,0 +1,8 @@
+baseURL = "http://noel-1990.github.io/"
+
+languageCode = "ja"
+
+title = "blog"
+
+theme = "BLOG"
+publishDir = "docs/"
