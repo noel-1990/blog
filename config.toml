@@ -6,3 +6,4 @@ title = "blog"
 
 theme = "BLOG"
 publishDir = "docs/"
+paginate = 5
